@@ -10,6 +10,8 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
+
+⭐stats
 ![20220719tue's GitHub stats](https://github-readme-stats.vercel.app/api?username=20220719tue&theme=buefy&show_icons=true)
 <!--
 **20220719tue/20220719tue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
