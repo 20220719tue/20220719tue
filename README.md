@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded=&color=gradient&text=%2020220719tue%20&height=300&fontSize=100&textBg=true&)
 
+[![20220719tue's GitHub stats](https://github-readme-stats.vercel.app/api?
+username=bi-sz&include_all_commits=true&show_icons=true&theme=cobalt)]
+(https://github.com/20220719tue/github-readme-stats)
+
 ⭐skills
 
 <!--
