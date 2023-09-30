@@ -12,6 +12,7 @@
 
 
 ![20220719tue's GitHub stats](https://github-readme-stats.vercel.app/api?username=20220719tue&theme=buefy&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=20220719tue&layout=compact)](https://github.com/20220719tue/github-readme-stats)
 <!--
 **20220719tue/20220719tue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
