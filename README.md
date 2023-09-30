@@ -1,6 +1,6 @@
-### Hi there 👋
-
 ![header](https://capsule-render.vercel.app/api?type=rounded=&color=gradient&text=%2020220719tue%20&height=300&fontSize=100&textBg=true&)
+
+⭐skills
 
 <!--
 **20220719tue/20220719tue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
