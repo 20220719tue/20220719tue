@@ -1,24 +1,37 @@
-![header](https://capsule-render.vercel.app/api?type=waving=&color=gradient&text=%2020220719tue%20&height=300&fontSize=100)
+<div align="center"> 
 
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=893107&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+  
+####  :wave: Welcome my github profile !
 
-<br/>
-<br/>
-
-⭐skills
-<br/>
-<br/>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=%23323330)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-
-
-<br/>
-<br/>
-
-
-![20220719tue's GitHub stats](https://github-readme-stats.vercel.app/api?username=20220719tue&theme=buefy&show_icons=true)
-<br/>
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=20220719tue&layout=compact)](https://github.com/20220719tue/github-readme-stats)
+  
+ <br/>
+ <br/>
+  
+####  :clipboard: Once I've Used 
+  
+ <br/>
+  
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> 
+<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
+ 
+   <br/>
+   <br/>
+ 
+#### :pencil2: Study log
+ 
+  <br/>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@somm)
+</div>
