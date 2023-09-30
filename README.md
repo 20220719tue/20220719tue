@@ -6,7 +6,7 @@
  <br/>
  <br/>
   
-####  :⭐skills
+####  :⭐:skills
   
  <br/>
   
@@ -19,7 +19,7 @@
    <br/>
    <br/>
  
-#### :pencil2: Study log
+#### :
  
   <br/>
   
