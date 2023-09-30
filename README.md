@@ -1,3 +1,4 @@
+<div align="center"> 
 ![header](https://capsule-render.vercel.app/api?type=waving=&color=gradient&text=%2020220719tue%20&height=300&fontSize=100)
 
 <br/>
@@ -21,6 +22,7 @@
 <br/>
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=20220719tue&layout=compact)](https://github.com/20220719tue/github-readme-stats)
+</div>
 <!--
 **20220719tue/20220719tue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
