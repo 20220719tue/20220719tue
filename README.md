@@ -1,9 +1,10 @@
-<div align="center"> 
+
 ![header](https://capsule-render.vercel.app/api?type=waving=&color=gradient&text=%2020220719tue%20&height=300&fontSize=100)
 
 <br/>
 <br/>
 
+<div align="center"> 
 ⭐skills
 <br/>
 <br/>
