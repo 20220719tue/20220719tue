@@ -1,11 +1,10 @@
-<div align="center"> 
-<div><div/>
 ![header](https://capsule-render.vercel.app/api?type=waving=&color=gradient&text=%2020220719tue%20&height=300&fontSize=100)
 
+<div align="center"> 
 <br/>
 <br/>
 
-⭐skills
+#### ⭐skills
 <br/>
 <br/>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
